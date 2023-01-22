@@ -1,6 +1,8 @@
 # Acquaintance
 import random
 
+# ky-ky
+
 name = input("Enter your name: ")
 
 def rt_read_file():
